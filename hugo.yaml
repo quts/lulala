@@ -1,3 +1,30 @@
-baseURL: https://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: "http://127.0.0.1/"
+title: FunFakuta
+theme: PaperMod
+
+params:
+  env: production #production # or development
+  title: "FunFakuta"
+  description: "something fun"
+  keywords: [blog, tech, paperMod]
+  author: "Vincent Chang"
+  favicon: "favicon.ico"
+
+  defaultTheme: auto # or auto / dark / light
+  disableThemeToggle: false
+
+  showReadingTime: true
+  showWordCount: true
+  showCodeCopyButtons: true
+  showBreadCrumbs: true
+  showPostNavLinks: false
+  showToc: false
+  tocOpen: false
+
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/vincentyy/"
+
+  homeInfoParams:
+    Title: "About FunFakuta"
+    Content: 'Every time I share a fun fact with my wife — something quirky, fascinating, or just plain random — she smiles and says, "Okay, 無用的小知識 +1," which means "one more piece of useless knowledge." It is our little inside joke. This site, funfakuta.com, to collect the things my wife thinks are useless — but who knows, they might just be meaningful to you and me.'
