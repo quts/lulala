@@ -1,10 +1,10 @@
 baseURL: "http://127.0.0.1/"
-title: FunFakuta
+title: Not To Work Lab
 theme: PaperMod
 
 params:
   env: production #production # or development
-  title: "FunFakuta"
+  title: "Not To Work Lab"
   description: "something fun"
   keywords: [blog, tech, paperMod]
   author: "Vincent Chang"
@@ -26,5 +26,5 @@ params:
       url: "https://www.linkedin.com/in/vincentyy/"
 
   homeInfoParams:
-    Title: "About FunFakuta"
-    Content: 'Every time I share a fun fact with my wife — something quirky, fascinating, or just plain random — she smiles and says, "Okay, 無用的小知識 +1," which means "one more piece of useless knowledge." It is our little inside joke. This site, funfakuta.com, to collect the things my wife thinks are useless — but who knows, they might just be meaningful to you and me.'
+    Title: "About Not To Work Lab"
+    Content: 'Every time I share a fun fact with my wife — something quirky, fascinating, or just plain random — she smiles and says, "Okay, 無用的小知識 +1," which means "one more piece of useless knowledge." It is our little inside joke. This site, Not To Work Lab.com, to collect the things my wife thinks are useless — but who knows, they might just be meaningful to you and me.'

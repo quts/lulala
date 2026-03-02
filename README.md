@@ -1,2 +1,2 @@
-# FunFakuta
-Every time I share a fun fact with my wife — something quirky, fascinating, or just plain random — she smiles and says, "Okay, 無用的小知識 +1," which means "one more piece of useless knowledge." It is our little inside joke. This site, funfakuta.com, to collect the things my wife thinks are useless — but who knows, they might just be meaningful to you and me.
+# Not To Work Lab
+Don't talk to me about dreams while I'm working; my dream is not to work. This is my Not To Work Lab—a personal space where I experiment and learn after my day job. The goal? To reach a day where work is no longer a necessity, and I can learn new things purely for the fun of it.
