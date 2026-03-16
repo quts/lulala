@@ -16,12 +16,15 @@ params:
   showReadingTime: true
   showWordCount: true
   showCodeCopyButtons: true
+  ShowFullTextContent: true
   showBreadCrumbs: true
   showPostNavLinks: false
   showToc: false
   tocOpen: false
 
   socialIcons:
+    - name: rss
+      url: "index.xml"
     - name: linkedin
       url: "https://www.linkedin.com/in/vincentyy/"
 
