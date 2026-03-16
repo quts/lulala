@@ -20,7 +20,7 @@ jobs:
           hugo-version: '0.146.3'  # <-- 換成你用的版本
 
       - name: Build
-        run: hugo --minify --baseURL https://quts.github.io/
+        run: hugo --minify --baseURL https://ntwlab.com/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
