@@ -23,10 +23,10 @@ params:
   tocOpen: false
 
   socialIcons:
-    - name: rss
-      url: "index.xml"
     - name: linkedin
       url: "https://www.linkedin.com/in/vincentyy/"
+    - name: rss
+      url: "index.xml"
 
   homeInfoParams:
     Title: "About Not To Work Lab"
